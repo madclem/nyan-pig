@@ -2,10 +2,14 @@
   "name": "nyan-pig",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://madclem.github.io/nyan-pig",
   "dependencies": {
+    "pixi-filters": "^3.0.3",
+    "pixi.js": "^5.0.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "signals": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
